@@ -71,4 +71,4 @@ Agricultural profitability in this dataset depends more on **resource-use effici
 
 1. Ensure Python 3.x is installed along with `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 2. Place `seasonal_agriculture_performance_dataset.csv` in the same directory as the notebook.
-3. Open `Project_Sameer.ipynb` in Jupyter Notebook / JupyterLab and run all cells sequentially.
+3. Open `code.ipynb` in Jupyter Notebook / JupyterLab and run all cells sequentially.
